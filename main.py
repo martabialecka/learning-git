@@ -2,6 +2,7 @@ lista_zakupów = {
 "piekarnia" : ["chleb", "pączek", "bułki"],
 "warzywniak" : ["marchew", "seler", "rukola"]
 }
+#test
 print ("Lista zakupów")
 s = 0
 for i in lista_zakupów.items():
