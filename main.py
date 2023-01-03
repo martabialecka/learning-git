@@ -1,1 +1,1 @@
-print ("Nie znam żadnych grup, tworzących skecze)
+print ("Nie znam żadnych grup, tworzących skecze")
